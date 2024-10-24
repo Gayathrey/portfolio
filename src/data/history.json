@@ -1,0 +1,36 @@
+[
+  {
+    "role": "Service Assistant",
+    "organisation": "Changi Airport Singapore",
+    "startDate": "Feb, 2011",
+    "endDate": "Nov, 2021",
+    "experiences": [
+      "Assisting passengers with check-in, boarding, and baggage claim",
+      "Resolving passenger complaints and issues"
+    ],
+    "imageSrc": "history/changi.png"
+  },
+  {
+    "role": "Receptionist",
+    "organisation": "Hotel Grand Central",
+    "startDate": "September, 2006",
+    "endDate": "February, 2011",
+    "experiences": [
+      "Handling check-in and check-out procedures",
+      "Managing reservations",
+      "Handling phone calls and emails"
+    ],
+    "imageSrc": "history/grandcentral.png"
+  },
+  {
+    "role": "Logistic Assistant",
+    "organisation": "Agilent Technologies",
+    "startDate": "January, 2004",
+    "endDate": "February, 2006",
+    "experiences": [
+      "Assisting with logistics planning and coordination",
+      "Preparing shipping documentation"
+    ],
+    "imageSrc": "history/agilent.png"
+  }
+]

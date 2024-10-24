@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Recipe App",
+    "imageSrc": "projects/recipe.png",
+    "description": "React & Module CSS",
+
+    "demo": "https://deliciousrecipeapp.netlify.app/",
+    "source": "https://github.com/Gayathrey/react-recipe"
+  },
+  {
+    "title": "The Pop Star",
+    "imageSrc": "projects/theband.png",
+    "description": "HTML, CSS & Javascript",
+
+    "demo": "https://thepopstar.netlify.app/",
+    "source": "https://github.com/Gayathrey/theband"
+  },
+
+  {
+    "title": "Love To Drive",
+    "imageSrc": "projects/drive.png",
+    "description": "React & Module CSS",
+
+    "demo": "https://reactlovetodrive.netlify.app/",
+    "source": "https://github.com/Gayathrey/drive_react"
+  }
+]
