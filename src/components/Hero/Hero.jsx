@@ -9,8 +9,10 @@ const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I am Gayathrey</h1>
         <p className={styles.description}>
-          I am a frontend Developer and knowledge with UI/UX design with React
-          and NodeJS. Reach out if you would like to learn more!
+          Passionate Frontend Developer with a strong foundation in React and
+          NodeJS. Committed to creating visually appealing websites. Open to
+          collaboration and eager to learn new technologies. Reach out if you
+          would like to learn more!
         </p>
         <a href="mailto:gayathrey@gmail.com" className={styles.contactBtn}>
           Contact Me
